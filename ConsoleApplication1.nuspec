@@ -8,7 +8,7 @@
     <description>FooBar Industries package</description>
   </metadata>
   <files>
-    <file src="bin\Release\*.dll" target="lib\net462" />
-    <file src="bin\Release-Net4\*.dll" target="lib\net40" />
+    <file src="bin\Release\*.exe" target="lib\net462" />
+    <file src="bin\Release-Net4\*.exe" target="lib\net40" />
   </files>
 </package>

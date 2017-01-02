@@ -1,0 +1,2 @@
+C:\Projects\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApplication1.exe.config

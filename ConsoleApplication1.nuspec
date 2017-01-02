@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Console</id>
+    <version>1.0.23</version>
+    <authors>FooBar Industries</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FooBar Industries package</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib\net462" />
+    <file src="bin\Release-Net46\*.dll" target="lib\net46" />
+    <file src="bin\Release-Net45\*.dll" target="lib\net45" />
+    <file src="bin\Release-Net4\*.dll" target="lib\net40" />
+  </files>
+</package>
